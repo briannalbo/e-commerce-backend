@@ -20,6 +20,10 @@
 
   ## Usage
   After completing the installation steps, users can utilize insomnia to view, enter, update, or delete data in the database. Refer to the files and notes in the 'routes' folder.
+  ## <p align="center">GET Request Example<p align="center">
+  ![](https://github.com/briannalbo/e-commerce-backend/blob/main/screenshots/ecom1.png)
+ ## <p align="center">POST Request Example<p align="center">
+  ![](https://github.com/briannalbo/e-commerce-backend/blob/main/screenshots/ecom2.png)
 
   ## License
 This project is licensed under the MIT License.
